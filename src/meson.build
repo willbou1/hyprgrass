@@ -1,4 +1,5 @@
 subdir('gestures')
+subdir('bindm')
 
 shared_module('hyprgrass',
   'main.cpp',
